@@ -1,7 +1,7 @@
 <div align="center"> <h1>🎬✨ Prismático Filmes — Site Oficial</h1> <p>Site institucional criado para apresentar a identidade da <strong>Prismático Filmes</strong>, produtora pernambucana dedicada ao audiovisual, ao cinema autoral e à criação de narrativas marcantes.</p> <br> <img src="https://img.shields.io/badge/Status-Online-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/Produtora-Prismático_Filmes-9333EA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Feito_com-HTML,_CSS,_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </div>
 🌐 Acesse o site
 
-👉 https://SEU-LINK-AQUI.github.io
+👉 https://larimayer.github.io/Site-da-Prismatico-Filmes--Produtora-de-Cinema/
 
 
 ✨ Sobre o projeto
