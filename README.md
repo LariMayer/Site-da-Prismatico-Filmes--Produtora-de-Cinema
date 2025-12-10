@@ -46,8 +46,6 @@ Como traduzir identidade artística para um site funcional
 Se quiser sugerir novas seções, ajustes na identidade visual, páginas extras para filmes específicos ou ideias de interação, estou sempre aberta a aprimorar o site da Prismático.
 O cinema se faz em coletivo. 🎥💛
 
-<<<<<<< HEAD
-<div align="center"> Site desenvolvido por <br> <strong>Larissa Mayer</strong> </div>
-=======
+
 <div align="center"> Site desenvolvido por <br> <strong>Larissa Mayer</strong> </div>
 >>>>>>> e60ff8895ce5bf82df8280f6843d45bbb20e643e
